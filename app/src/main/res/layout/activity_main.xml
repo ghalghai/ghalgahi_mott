@@ -11,7 +11,6 @@
         android:gravity="center"
         android:title="Ghalghai Mott"
         android:subtitle="Learn your language"
-        android:navigationIcon="@drawable/ic_flag_of_ingushetia"
         android:background="@color/dark_grey"
         android:titleTextColor="@color/text"
         android:subtitleTextColor="@color/text"
@@ -33,7 +32,7 @@
             android:clickable="true"
             android:focusable="true"
             android:queryHint="Type a word"
-            android:searchIcon="@drawable/ic_baseline_font_download_24"
+            android:searchIcon="@drawable/ic_ingush_national_solar_symbol"
             />
 
     </LinearLayout>
