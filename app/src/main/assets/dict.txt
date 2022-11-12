@@ -1,4 +1,4 @@
 Govr:Horse
 Gyan:Tree
 Tur:Sword
-vush:Brother
+Vosh:Brother
